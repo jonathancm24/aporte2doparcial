@@ -1,0 +1,15 @@
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\bin\Debug\net6.0\AportePOOJonathanCedeño.exe
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\bin\Debug\net6.0\AportePOOJonathanCedeño.deps.json
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\bin\Debug\net6.0\AportePOOJonathanCedeño.runtimeconfig.json
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\bin\Debug\net6.0\AportePOOJonathanCedeño.dll
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\bin\Debug\net6.0\AportePOOJonathanCedeño.pdb
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.csproj.AssemblyReference.cache
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.AssemblyInfoInputs.cache
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.AssemblyInfo.cs
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.csproj.CoreCompileInputs.cache
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.dll
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\refint\AportePOOJonathanCedeño.dll
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.pdb
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\AportePOOJonathanCedeño.genruntimeconfig.cache
+C:\Users\FACCI\Desktop\AportePOOJonathanCedeño\obj\Debug\net6.0\ref\AportePOOJonathanCedeño.dll
